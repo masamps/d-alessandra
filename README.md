@@ -1,6 +1,4 @@
-# D'Alessandra
-
-![logo](/documentos/img/logo.png)
+# Projeto Loja de Roupas
 
 `ANALISE E DESENVOLVIMENTO DE SISTEMA`
 
@@ -8,7 +6,9 @@
 
 `Eixo- 05`
 
-Desenvolvimento de um Sistema Sociotécnico Inovador para aprimorar a gestão da loja de roupas de D'Alessandra, visando agilizar processos de estoque, vendas e finanças através de soluções de TI, proporcionando uma gestão integrada e eficiente para impulsionar o crescimento do negócio.
+Desenvolvimento de um Sistema Sociotécnico Inovador para aprimorar a gestão da loja de roupas, visando agilizar processos de estoque, vendas e finanças através de soluções de TI, proporcionando uma gestão integrada e eficiente para impulsionar o crescimento do negócio.
+
+Projeto realizado como conclusão do Curso de Análise e Desenvolvimento de Sistemas da PUC MINAS. O Projeto em sí está em produção em uma loja de roupas na cidade de Belo Horizonte - Minas Gerais.
 
 ## Integrantes
 
