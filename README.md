@@ -31,6 +31,6 @@ Projeto realizado como conclusão do Curso de Análise e Desenvolvimento de Sist
 
 ## Stack
 
-* Back-end: Utilizado Java 21 com Framework Spring Boot e Hibernate como ORM;
-* Front-end: Utilizado o Framework React para o JavaScript, Tailwind como Framework de CSS e componentes do PrimeReact;
-* Banco de dados: Utilizado PostgreSQL.
+* **Back-end**: Utilizado Java 21 com Framework Spring Boot e Hibernate como ORM;
+* **Front-end**: Utilizado o Framework React para o JavaScript, Tailwind como Framework de CSS e componentes do PrimeReact;
+* **Banco de dados**: Utilizado PostgreSQL.
