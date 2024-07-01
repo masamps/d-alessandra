@@ -29,3 +29,8 @@ Projeto realizado como conclusão do Curso de Análise e Desenvolvimento de Sist
 
 * Professor(a): <a href="https://www.linkedin.com/in/sandra-silveira-msc-itil-v3-foundation-320618/">Sandra Maria Silveira </a>
 
+## Stack
+
+* Back-end: Utilizado Java 21 com Framework Spring Boot e Hibernate como ORM;
+* Front-end: Utilizado o Framework React para o JavaScript, Tailwind como Framework de CSS e componentes do PrimeReact;
+* Banco de dados: Utilizado PostgreSQL.
