@@ -14,9 +14,16 @@ Projeto realizado como conclusão do Curso de Análise e Desenvolvimento de Sist
 ## Integrantes
 
 * <a href="https://www.linkedin.com/in/matheus-ferreira-3b26a823b/">Matheus Ferreira Pires</a>
+  - Responsável pela parte de Despesas do sistema, englobando contas a pagar e a Receber (Back/Front);
+  
 * <a href="https://www.linkedin.com/in/sampaiotech/">Matheus Lemos Sampaio</a>
+  - Responsável pela parte de Cadastro de cliente, Cadastro de Vendas, Relatório de Vendas e Relatório de Produtos mais vendidos (Back/Front);
+  
 * <a href="https://www.linkedin.com/in/pedro-almeida-5427b3187/">Pedro Assis Silva de Almeida</a>
+  - Responsável pela parte de Login e Cadastro de Usuários (Back/front);
+  
 * <a href="https://www.linkedin.com/in/vitorhugosilvaribeiro/">Vitor Hugo Silva Ribeiro</a>
+  - Responsável pela parte de Cadastro de Produto, Atualização de Estoque, Relatório de Estoque, Módulo de Parâmetro e Relatório de Clientes Inadimplentes (Back/Front).
 
 ## Orientador(a)
 
